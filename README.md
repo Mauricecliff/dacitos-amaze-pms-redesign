@@ -262,7 +262,7 @@ Demonstrates expertise in:
 
 ## 🌐 Live Demo
 
-Coming Soon
+https://dacitos-amaze-pms-redesign.vercel.app
 
 ---
 
