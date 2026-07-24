@@ -110,6 +110,6 @@ This repository was developed solely for the Dacitos Technologies Pvt. Ltd. tech
 
 Frontend Developer | Next.js Developer
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Mauricecliff
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/oseh-maurice-537b2210a
